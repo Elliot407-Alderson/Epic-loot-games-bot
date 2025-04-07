@@ -3,7 +3,6 @@ from telebot import types
 import requests
 
 Токен бота
-BOT_TOKEN = '7368021326:AAEnUn11ru-oPeOgEFUfQ9bWmDRy7OVDB1U'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 Подписки (временно без БД)
